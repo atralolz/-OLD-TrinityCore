@@ -18,10 +18,11 @@
 * SQL's:
 	- Teleporter
 	- All races all classes
-* Warden anticheat system
-* Wintergrasp battlefield
-* Duel Reset
-* Auction House Bot
+* Default includes
+	- Warden anticheat system
+	- Wintergrasp battlefield
+	- Duel Reset
+	- Auction House Bot
 
 ## Requirements
 
