@@ -1,5 +1,9 @@
 # ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) TrinityCore (3.3.5)
 
+## Description
+
+* This core based on TrinityCore (22.08.2018)
+
 ## Core includes
 
 * Reviving near the body
@@ -14,6 +18,10 @@
 * SQL's:
 	- Teleporter
 	- All races all classes
+* Warden anticheat system
+* Wintergrasp battlefield
+* Duel Reset
+* Auction House Bot
 
 ## Requirements
 
